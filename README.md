@@ -11,6 +11,10 @@ Table of contents
 
 Installation Manual : [Installation manual](Anet_A8_Plus/a8_plus.pdf)
 
+![](Anet_A8_plus/A8.JPG)
+![](Anet_A8_plus/IMG_1693.JPG)
+![](Anet_A8_plus/IMG_1694.JPG)
+
 # First 3d print
 
 # 3D Prints
