@@ -20,3 +20,13 @@ Installation Manual : [Installation manual](Anet_A8_Plus/a8_plus.pdf)
 # 3D Prints
 
 # Links
+[Xiaomi remove battery tool](https://www.thingiverse.com/thing:3576383)
+
+[Xiaomi holder square 1](https://www.thingiverse.com/thing:3385637)
+
+[Xiaomi holder square 2](https://www.thingiverse.com/thing:4524957)
+
+[Xiaomi holder round](https://www.thingiverse.com/thing:4028300)
+
+
+
