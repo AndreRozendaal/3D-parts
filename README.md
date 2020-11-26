@@ -28,5 +28,5 @@ Installation Manual : [Installation manual](Anet_A8_Plus/a8_plus.pdf)
 
 [Xiaomi holder round](https://www.thingiverse.com/thing:4028300)
 
-
+[Laptop stand 1](https://cults3d.com/en/3d-model/gadget/notebook-stand-soporte-para-notebook-o-laptop)
 
