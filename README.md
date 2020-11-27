@@ -5,6 +5,7 @@ Table of contents
 - [First 3d print](#first-3d-print)
 - [3D Prints](#3d-prints)
 - [Links](#links)
+- [Tuning 3d Links](#tuning-3d-links)
 
 
 # Installation Anet A8 Plus
@@ -29,4 +30,11 @@ Installation Manual : [Installation manual](Anet_A8_Plus/a8_plus.pdf)
 [Xiaomi holder round](https://www.thingiverse.com/thing:4028300)
 
 [Laptop stand 1](https://cults3d.com/en/3d-model/gadget/notebook-stand-soporte-para-notebook-o-laptop)
+
+# Tuning 3d Links
+[Teaching Tech 3D Printer Calibration](https://teachingtechyt.github.io/calibration.html#intro)
+
+[Print Quality Troubleshooting](https://help.prusa3d.com/en/tag/mk3s/print-quality-troubleshooting_225)
+
+
 
