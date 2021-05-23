@@ -6,6 +6,7 @@ Table of contents
 - [3D Prints](#3d-prints)
 - [Links](#links)
 - [Tuning 3d Links](#tuning-3d-links)
+- [My settings](#my-settings)
 
 
 # Installation Anet A8 Plus
@@ -37,4 +38,11 @@ Installation Manual : [Installation manual](Anet_A8_Plus/a8_plus.pdf)
 [Print Quality Troubleshooting](https://help.prusa3d.com/en/tag/mk3s/print-quality-troubleshooting_225)
 
 
+# My settings
 
+By PETG: 
+
+
+| nozzle | temp nozzle | temp bed | layer height | initial layer height | print speed | wall speed | support speed |  initial layer speed | travel speed |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---|
+| 0.4 | 230 | 70 | 0.2 | 0.3 | 50 | 25 | 50 | 25 | 150 |
